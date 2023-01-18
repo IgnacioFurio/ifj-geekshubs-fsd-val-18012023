@@ -1,3 +1,36 @@
 body{
     background-color: aqua;
+    margin: 0%;
+}
+#div1{
+    background-color: green;
+    height: 15vh;
+}
+#div2{
+    background-color: blue;
+    height: 85vh;
+    width: 15vw;
+    float: left;
+}
+#div3{
+    background-color: brown;
+    height: 85vh;
+    width: 85vw;
+    float: left;
+}
+.div2-menu{
+    background-color: blueviolet;
+    height: 5vh;
+}
+button{
+    width: 15vw;
+    height: 4vh;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: beige;
+    border: 1px grey solid;
+
 }
